@@ -1,8 +1,3 @@
-# QR-Code-Generator
-QR Code Generator in Python.
-
-
-
 
 # QR Code Generator 🖨️
 
